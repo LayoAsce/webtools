@@ -10,4 +10,4 @@ Cool web tools open source for everyone to use and contribute. Don't know what O
 + Add, Commit and Push to the branch you created
 + Your tools will be merged in few hours
 
-## [Live Preview Here](https://web_tools.netlify.app/)
+## [Live Preview Here](https://webingtools.netlify.app/)
